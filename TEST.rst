@@ -2317,7 +2317,7 @@ JavaScript 异常
 -----------
 
 在 BuChain 上通过智能合约账户 ``buQcEk2dpUv6uoXjAqisVRyP1bBSeWUHCtF2`` 查询账户 ``buQXPeTjT173kagZ7j8NWAPJAgJCpJHFdyc7`` 的 CGO 的余额。
-本节主要讲解 `创建SDK实例`_和 `查询余额`_ 。
+本节主要讲解 `创建SDK实例`_ 和 `查询余额`_ 。
 
 
 创建SDK实例
